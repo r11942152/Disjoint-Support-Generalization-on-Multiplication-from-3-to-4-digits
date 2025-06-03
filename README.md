@@ -28,8 +28,7 @@ Run the following command to set up the necessary datasets:
 
 ```
 python3 data_generate.py
-python3 iid_test_data_generate.py
-python3 ood_test_data_generate.py
+python3 test_data_generate.py
 ```
 
 ## Step 3: Train Model
